@@ -1,0 +1,6 @@
+[submodule "rpmnet-holonav"]
+	path = rpmnet-holonav
+	url = https://github.com/alpcicimen/rpmnet-holonav
+[submodule "predator-holonav"]
+	path = predator-holonav
+	url = https://github.com/alpcicimen/predator-holonav
